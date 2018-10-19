@@ -8,8 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEditFormDemo.Droid", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEditFormDemo.iOS", "iOS\CustomEditFormDemo.iOS.csproj", "{BD5007E1-BB95-408E-9D14-84F0D1D0A70F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEditFormDemo.WinPhone", "WinPhone\CustomEditFormDemo.WinPhone.csproj", "{2B6A4B5E-A240-4977-BAAC-7FCD9CB8B402}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
